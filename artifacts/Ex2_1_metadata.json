@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"02 리믹스로 솔리디티 시작하기/Ex2_1.sol": {
-			"keccak256": "0xc9414bcfc977a753c9b4917a2d22d49703e083b76013c561802f1d7e15c9a928",
+			"keccak256": "0xb08ed5a337528462c162a65f5862ba9c5cd4e8719a2c207e31edfa28cdb55de5",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://8e44be9c7671f31330f88553828870b3fbc38a41a54ef45343019ac2d5e13514",
-				"dweb:/ipfs/Qma8QQfjREfmkVz2Gng7vVszfBWctVxQSyFroirm6jaiAE"
+				"bzz-raw://a673744f0a2dd2314c50183305977092d8085f32d23c419c489a6600ed0b583f",
+				"dweb:/ipfs/QmdmKLqXY8vQFdzpKFuwZy76Zug1hkYx2qYsvZRvA6qz2m"
 			]
 		}
 	},
