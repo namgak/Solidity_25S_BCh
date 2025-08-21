@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02 리믹스로 솔리디티 시작하기/Ex2_2대입 연산자.sol": "Ex2_2"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02 리믹스로 솔리디티 시작하기/Ex2_2대입 연산자.sol": {
+			"keccak256": "0x792f0b87a76594d146a45782060839fee68aae92913b3956a9ee520f491f7f1d",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1589c8b3594cdd0ea506ada0b9412408e0838fafb98a1a39a86ac1388ed70d9b",
+				"dweb:/ipfs/QmZ1BMFexkbtmKsaQmtK38xRe8iX6MnqjeShxBcDNz9KXd"
+			]
+		}
+	},
+	"version": 1
+}
