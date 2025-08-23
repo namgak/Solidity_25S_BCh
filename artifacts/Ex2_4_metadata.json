@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "arithmetic",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02 리믹스로 솔리디티 시작하기/Ex2_4산술 연산자.sol": "Ex2_4"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02 리믹스로 솔리디티 시작하기/Ex2_4산술 연산자.sol": {
+			"keccak256": "0x1eb9737402fff0c451afff27ea1303fa3c98267f43ba74181ae4d37d46b219ad",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://94afaf3db91ae43cb8117d3e8db9270ba56f1206397f8299d6ea0315ee0217ff",
+				"dweb:/ipfs/QmfSpDAMVEWWv7XWBYpGoH6pUMpYz1dSC6vMyyTpj4e3UR"
+			]
+		}
+	},
+	"version": 1
+}
