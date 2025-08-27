@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "justA",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "postMinus",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "preMinus",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02 리믹스로 솔리디티 시작하기/Ex2_7전위 감소와 후위 감소.sol": "Ex2_7"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02 리믹스로 솔리디티 시작하기/Ex2_7전위 감소와 후위 감소.sol": {
+			"keccak256": "0xaa4c2945e790f8ab79ef223771ca20609214e88b1fce840f65b87a1740bca705",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://52c57f596771feb035351ea5799fd428ece658840574be58afd0b04f46845a9d",
+				"dweb:/ipfs/QmdojJLKZERMLsseUr6Kx5Y7obr4jnjf7ZDM8HDTBQ5U23"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "comparison",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02 리믹스로 솔리디티 시작하기/Ex2_8비교 연산자.sol": "Ex2_8"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02 리믹스로 솔리디티 시작하기/Ex2_8비교 연산자.sol": {
+			"keccak256": "0x9f303faff783e294f37ea20de288bd8f72db9366ad91159c6a81753c0810a0f7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9bf838f5c53eeab5a1706a3677533220a852590ba171bb00402bb784ccd2b14c",
+				"dweb:/ipfs/Qmbz1VY3uxdyRzdGCZvwvo853mezrFeeyqfQCXk1xXdG4T"
+			]
+		}
+	},
+	"version": 1
+}
