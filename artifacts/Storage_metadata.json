@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"0830/storage example.sol": "Storage"
+			"0830 넥스트 블록체인/01.storage example.sol": "Storage"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"0830/storage example.sol": {
+		"0830 넥스트 블록체인/01.storage example.sol": {
 			"keccak256": "0x19906a63e2a659bdcda908b2984b614e66a99945eeedb10e53e183a5cc28fd0a",
 			"license": "GPL-3.0",
 			"urls": [
