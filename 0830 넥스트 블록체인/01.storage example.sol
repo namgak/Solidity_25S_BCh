@@ -3,6 +3,8 @@ pragma solidity >=0.7.0 < 0.9.0;
 
 contract Storage {
 
+    
+    event NumberSet(uint256 indexed oldNumber, uint256 indexed newNumber);
     uint256 number;
 
     /*

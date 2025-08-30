@@ -6,6 +6,25 @@
 	"output": {
 		"abi": [
 			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "uint256",
+						"name": "oldNumber",
+						"type": "uint256"
+					},
+					{
+						"indexed": true,
+						"internalType": "uint256",
+						"name": "newNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "NumberSet",
+				"type": "event"
+			},
+			{
 				"inputs": [],
 				"name": "retrieve",
 				"outputs": [
@@ -53,18 +72,18 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
 		"0830 넥스트 블록체인/01.storage example.sol": {
-			"keccak256": "0x19906a63e2a659bdcda908b2984b614e66a99945eeedb10e53e183a5cc28fd0a",
+			"keccak256": "0x00fe0127b586a2d54f2459b4bdac96f8a3d8fa989db1be8d35194ee8a14623e3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://d7609c6a52c8dd251c5273fef40fef56a00658f6638aaadc9556b5b431c9827f",
-				"dweb:/ipfs/QmbJAt2us84jXDCrMDheqw5zL2Bn7CAuSXoLSEQBvdz4nz"
+				"bzz-raw://7ca8826823b9659eba7fee2397a4ba5c8e1e67af301e4b56440d8dae06d4e2cf",
+				"dweb:/ipfs/QmXkCYk9UbDFWgv9fAD4unX3VaLStA97xMDMF96GuZME8o"
 			]
 		}
 	},
